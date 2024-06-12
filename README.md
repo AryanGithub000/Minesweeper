@@ -17,3 +17,5 @@ In order to "dig" at a certain location, you type in the index of the row, then 
 You can continue digging until either you hit a bomb (which is game over) or you've successfully dug up all n-b non-bomb locations (which is victory)!
 
 
+![image](https://github.com/AryanGithub000/Minesweeper/assets/103366393/7e899e3c-6f09-4967-8f3a-7f2668ae4790)
+
